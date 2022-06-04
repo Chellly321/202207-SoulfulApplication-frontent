@@ -1,0 +1,32 @@
+.my-footer{
+    background-color: var(--secondary);
+    width: 100%;
+    
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.footer-logo{
+    color: white;
+    font-weight: bold;
+}
+.footer-pages{
+    display: flex;
+    flex-direction: column;
+}
+.footer-link{
+    color: white;
+    margin-bottom: 10px;
+    font-family: 'Poppins';
+}
+.footer-social-icons a{
+    margin-left: 20px;
+    
+}
+.footer-social-icons a i{
+    color: white !important;
+}
+.footer-social{
+    display: flex;
+align-items: center;
+}
